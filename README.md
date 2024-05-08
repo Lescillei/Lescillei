@@ -1,6 +1,6 @@
 ### Hello, world!! Eu sou a Léscillei 👋
 
-- 🔭 Atualmente estou estudando no 2/5 semestre de ADS
+- 🔭 Atualmente estou estudando no 3/5 semestre de ADS
 - 🌱 Fazendo um curso para certificação do Google em Gerenciamento de Projetos
 - 🤔 Estou em busca de formação em cibersegurança
 
