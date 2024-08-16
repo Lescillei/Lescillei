@@ -1,8 +1,8 @@
 ### Hello, world!! Eu sou a Léscillei 👋
 
-- 🔭 Atualmente estou estudando no 3/5 semestre de ADS
-- 🌱 Fazendo um curso para certificação do Google em Gerenciamento de Projetos
-- 🤔 Estou em busca de formação em cibersegurança
+- 🔭 Atualmente estou estudando no 4/5 semestre de ADS
+- 🌱 Certificação do Google em Gerenciamento de Projetos
+- 🤔 Estou em busca de aprofundar meus conhecimentos em T.I
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lescillei-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
