@@ -2,10 +2,12 @@
 
 - 🔭 Atualmente estou estudando no 4/5 semestre de ADS
 - 🌱 Certificação do Google em Gerenciamento de Projetos
-- 🤔 Estou em busca de aprofundar meus conhecimentos em T.I
+- 💼 Estágio em Infraestrtura (12/2023 - 5/2024)
+- 🤔 Cada vez mais adquirindo conhecimentos em T.I
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lescillei-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Lescillei-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Lescillei-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lescillei-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lescillei-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
