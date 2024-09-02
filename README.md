@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou estudando no 4/5 semestre de ADS
 - 🌱 Certificação do Google em Gerenciamento de Projetos
-- 💼 Estágio em Infraestrtura (12/2023 - 5/2024)
+- 💼 Estágio em Infraestrutura (12/2023 - 5/2024)
 - 🤔 Cada vez mais adquirindo conhecimentos em T.I
 
 <div style="display: inline_block"><br>
